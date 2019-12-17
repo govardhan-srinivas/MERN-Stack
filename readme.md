@@ -1,0 +1,1 @@
+Post man collection of the API's - https://www.getpostman.com/collections/bb7bcf12dc88c450365e
